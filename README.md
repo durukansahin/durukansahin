@@ -5,7 +5,7 @@ Hi there 👋
 👀 I’m interested in Nature,Computer Science and Technology
 🌱 I’m currently learning Python,HTML,Linux
 My Skill
-![image](https://github.com/durukansahin/durukansahin/assets/156955364/b9de7836-14d8-48c3-ba38-673e475a7735)![image](https://github.com/durukansahin/durukansahin/assets/156955364/2628cb79-1f41-4f9f-b8bc-f612c20ee9f5)![image](https://github.com/durukansahin/durukansahin/assets/156955364/a112e3ac-b0a8-441b-ba49-30b1c33e4844)![image](https://github.com/durukansahin/durukansahin/assets/156955364/b0346ce0-874f-4b66-ae96-6df48cc33ce8)
+https://www.linux.org/ https://en.wikipedia.org/wiki/HTML5 https://www.w3schools.com/css/ https://www.python.org/
 
 
 
