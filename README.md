@@ -1,5 +1,5 @@
-![68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667](https://github.com/durukansahin/durukansahin/assets/156955364/3b4b2d94-844a-492a-ba66-96aeb899c96d)Hi there 👋
-👋 Hi, I’m Durukan Şahin
+Hi there 👋
+                                                    👋 Hi, I’m Durukan Şahin
 
 ![image](https://github.com/durukansahin/durukansahin/assets/156955364/0c809f09-6f63-4cd7-b615-b2e34d1ca8c0)
 👀 I’m interested in Nature,Computer Science and Technology
