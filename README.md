@@ -1,6 +1,8 @@
+    👋 Hi, I’m Durukan Şahin
+
 ![image](https://github.com/durukansahin/durukansahin/assets/156955364/0c809f09-6f63-4cd7-b615-b2e34d1ca8c0)
                                            
-                                           👋 Hi, I’m Durukan Şahin
+                                           
 <!---
 👀 I’m interested in Nature,Computer Science and Technology
 🌱 I’m currently learning Python,HTML,Linux
